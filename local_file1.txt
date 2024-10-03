@@ -1,2 +1,3 @@
 Local file 1 - test
 Adding line to check
+Adding another line
